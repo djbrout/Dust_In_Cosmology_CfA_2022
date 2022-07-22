@@ -108,7 +108,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-image: url('https://github.com/djbrout/Dust_In_Cosmology_Cfa_2022/raw/master/assets/images/header.png');
+  background-image: url('https://github.com/djbrout/Dust_In_Cosmology_Cfa_2022/raw/master/assets/images/header.png') repeat 0 0;
+  background-repeat: no-repeat;
 
   @include large {
     padding: 5rem 6rem;
