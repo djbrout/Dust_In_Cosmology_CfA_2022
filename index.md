@@ -4,7 +4,7 @@ layout: default
 
 # <span style="color:white">Workshop on the Role of Dust In Cosmology</span>
 
-# If you are seeing this, you are a VIP and we want guage your interest and availablility.
+# If you are seeing this, you are a VIP and we want gauge your interest and availablility.
 
 If you are interested (see ["the pitch"](https://djbrout.github.io/Dust_In_Cosmology_Cfa_2022/#the-pitch) below), please fill out the form below for when you could join us here in December 2022 in Cambridge, MA
 * [Google VIP Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
