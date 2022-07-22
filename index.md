@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Workshop on the Role of Dust In Cosmology
 
 # IF you are visiting this page, you are a VIP and we want to know your available dates.
 
