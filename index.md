@@ -4,10 +4,10 @@ layout: default
 
 # <span style="color:white">Workshop on the Role of Dust In Cosmology</span>
 
-# IF you are visiting this page, you are a VIP and we want to know your available dates.
+# If you are seeing this, you are a VIP and we want to know your available dates.
 
 Please fill out the poll here for when you could join us here in Cambridge, MA
-
+* [https://whenisgood.net/zt4npcd/](https://whenisgood.net/zt4npcd/)
 
 # Local Organizing Committee
 
