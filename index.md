@@ -9,7 +9,7 @@ layout: default
 If you are interested (see "the pitch" below), please fill out the poll here for when you could join us here in December 2022 in Cambridge, MA
 * [https://whenisgood.net/zt4npcd/](https://whenisgood.net/zt4npcd/)
 
-Thank you in advance. Your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
+We have identified that specifically your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
 
 ## Local Organizing Committee
 
