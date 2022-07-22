@@ -23,7 +23,7 @@ TBD
 
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
-| Daniel Scolnic  (Duke)  |       |    |
+| Adam Riess (STSci) | Daniel Scolnic  (Duke)  |       |
 
 # <a name="pitch"></a>The Pitch
 Most precision cosmologists find that at some point they must become experts in the cosmic dust that impacts their measurements. However, our understanding of cosmic dust beyond the Milky Way still leaves a lot to be desired which may limit the potential of future measurements in many/most of the most exciting areas of cosmology. Here we are attempting to connect the leading researchers on cosmic dust (many of which happen to reside at the CfA or in the surrounding New England area) with the rest of the cosmological community and facilitate practical discussions on the impact and mitigation of dust’s role in cosmological inference.
