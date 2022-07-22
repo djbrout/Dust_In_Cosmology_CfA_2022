@@ -111,6 +111,7 @@ a {
   background-image: url('https://github.com/djbrout/Dust_In_Cosmology_Cfa_2022/raw/master/assets/images/header.png');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-y: center;
 
   @include large {
     padding: 5rem 6rem;
