@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Dillon TEST: Text can be **bold**, _italic_, or ~~strikethrough~~.
+Dillon TEST2: Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
