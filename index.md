@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# <span style="color:white">Workshop on the Role of Dust In Cosmology</span>
 
 # IF you are visiting this page, you are a VIP and we want to know your available dates.
 
@@ -12,7 +13,7 @@ Please fill out the poll here for when you could join us here in Cambridge, MA
 
 Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 
-# Confirmed Attendees
+# Attendees (pending optimal dates)
 
 | Dillon Brout  | Charlie Conroy | Doug Finkbeiner  |
 | Daniel Eisenstein | Christopher Stubbs   | Edo Berger  |
