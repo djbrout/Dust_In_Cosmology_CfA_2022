@@ -2,18 +2,12 @@
 layout: default
 ---
 
-Dillon TEST2: Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[https://whenisgood.net/zt4npcd/](https://whenisgood.net/zt4npcd/).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 
 # IF you are visiting this page, you are a VIP and we want to know your available dates.
 
-Please fill out the poll here for when you coul
+Please fill out the poll here for when you could join us here in Cambridge, MA.
+[https://whenisgood.net/zt4npcd/](https://whenisgood.net/zt4npcd/).
+
 
 
 # Local Organizing Committee
