@@ -6,16 +6,20 @@ layout: default
 
 # If you are seeing this, you are a VIP and we want to know you if you are interested and your availablility.
 
-If you are interested (see "the pitch" below), please fill out the poll here for when you could join us here in Cambridge, MA
+If you are interested (see "the pitch" below), please fill out the poll here for when you could join us here in December 2022 in Cambridge, MA
 * [https://whenisgood.net/zt4npcd/](https://whenisgood.net/zt4npcd/)
 
 Thank you in advance. Your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
 
-# Local Organizing Committee
+## Local Organizing Committee
 
 Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 
-# Attendees (pending optimal dates)
+## Scientific Organizing Committee
+
+TBD
+
+## Attendees (pending optimal dates)
 
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
