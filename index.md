@@ -30,7 +30,7 @@ Most precision cosmologists find that at some point they must become experts in 
 
 Here we are attempting to connect the leading researchers on cosmic dust with the rest of the cosmological community and facilitate instructional talks, practical discussions, and real-time collaborations on the impact and mitigation of dust’s role in cosmological inference.
 
-We plan a two-day interactive workshop aimed at bringing the dust and cosmology fields together and addressing the following questions:
+We are planning a 2-3 day interactive workshop aimed at bringing the dust and cosmology fields together and addressing the following questions:
 * What is our current understanding of dust in the Milky Way and does it apply beyond our own galaxy? How much does it vary from galaxy to galaxy and how much does it change over cosmic time/redshift/galaxy stellar population age?
 * What impact does dust have on our understanding of dark energy, the accelerating universe, and the 'Hubble tension' today? 
 * What is the impact of dust on the main cosmological probes of the next generation? How well must we understand dust so that residual biases do not limit cosmological constraints of future experiments?
