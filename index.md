@@ -6,7 +6,7 @@ layout: default
 
 # If you are seeing this, you are a VIP and we want gauge your interest and availablility.
 
-If you are interested (see ["the pitch"](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) below), please fill out the form below for when you could join us here in December 2022 in Cambridge, MA
+If you are interested (see ["the pitch"](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) below), please fill out the form below for when you could join us here at the CfA in person in December 2022 (Cambridge, MA)
 * [Google VIP Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
 
 We have identified that specifically your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
