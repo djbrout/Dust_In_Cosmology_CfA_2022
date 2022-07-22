@@ -7,7 +7,7 @@ layout: default
 # If you are seeing this, you are a VIP and we want to know you if you are interested and your availablility.
 
 If you are interested (see "the pitch" below), please fill out the poll here for when you could join us here in December 2022 in Cambridge, MA
-* [Google Form](https://forms.gle/Dq8KKrWahMzwKmhMA)
+* [Google VIP Attendance Form](https://forms.gle/Dq8KKrWahMzwKmhMA)
 
 We have identified that specifically your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
 
