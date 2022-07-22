@@ -26,7 +26,7 @@ TBD
 | Adam Riess (STSci) | Daniel Scolnic  (Duke)  |       |
 
 # <a name="pitch"></a>The Pitch
-Most precision cosmologists find that at some point they must become experts in the cosmic dust that impacts their measurements. However, while our understanding of cosmic dust in the Milky Way and beyond has developed significantly, there remain many outstanding questions that affect the potential constraining of future measurements in many/most of the most exciting areas of cosmology. 
+Most precision cosmologists find that at some point they must become experts in the cosmic dust that impacts their measurements. However, while our understanding of cosmic dust in the Milky Way and beyond has developed significantly, there remain many questions that affect the potential constraining of future measurements in many/most of the most exciting areas of cosmology. 
 
 Here we are attempting to connect the leading researchers on cosmic dust with the rest of the cosmological community and facilitate instructional talks, practical discussions, and real-time collaborations on the impact and mitigation of dust’s role in cosmological inference.
 
