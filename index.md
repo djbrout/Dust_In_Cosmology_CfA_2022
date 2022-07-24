@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <span style="color:white">Workshop on the Role of Dust In Cosmology</span>
+# <span style="color:white">Workshop on The Impact of Dust on Cosmological Inference</span>
 
 # If you are seeing this, we want gauge your interest and availablility on December 12th (10am start) and 13th 2022.
 
