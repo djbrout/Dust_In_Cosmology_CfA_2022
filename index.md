@@ -4,10 +4,10 @@ layout: default
 
 # <span style="color:white">Workshop on the Role of Dust In Cosmology</span>
 
-# If you are seeing this, you are a VIP and we want gauge your interest and availablility on December 12th (10am start) and 13th 2022.
+# If you are seeing this, we want gauge your interest and availablility on December 12th (10am start) and 13th 2022.
 
 If you are interested (see ["the pitch"](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) below), please fill out the form below to let us know if you can join us in person on December 12th & 13th 2022 (Cambridge, MA)
-* [Google VIP Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
+* [Google Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
 
 We have identified that specifically your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
 
