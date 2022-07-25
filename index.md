@@ -7,17 +7,13 @@ layout: default
 # If you are seeing this, we want gauge your interest and availablility on December 12th (10am start) and 13th 2022.
 
 If you are interested (see ["the pitch"](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) below), please fill out the form below to let us know if you can join us in person on December 12th & 13th 2022 (Cambridge, MA)
-* [Google Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
+* [Attendance RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
 
 We have identified that specifically your attendence will help us reach the critical mass required to guarantee fruitful discussions and a worthwhile workshop.
 
-## Local Organizing Committee
+## Local/Scientific Organizing Committee
 
 Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
-
-## Scientific Organizing Committee
-
-TBD
 
 ## Confirmed Attendees
 
