@@ -19,7 +19,7 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
-| Adam Riess (STSci) | Daniel Scolnic  (Duke)  |       |
+| Adam Riess (STSci) | Daniela Calzetti (UMass-Amherst)| Daniel Scolnic  (Duke)  |
 
 # <a name="pitch"></a>The Pitch
 Nearly all precision cosmologists must understand to what level cosmic dust that impacts their measurements. Yet, while our understanding of cosmic dust in the Milky Way and beyond has developed significantly, there remain many questions that affect the potential constraining of future measurements in many/most of the most exciting areas of cosmology. 
