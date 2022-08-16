@@ -20,7 +20,7 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
 | Adam Riess (STSci) | Daniela Calzetti (UMass-Amherst)| Daniel Scolnic  (Duke)  |
-| Samir Salim (IU) | Karl Gordon (STSci)|   |
+| Samir Salim (IU) | |   |
 
 
 # <a name="pitch"></a>The Pitch
