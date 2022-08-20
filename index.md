@@ -6,7 +6,7 @@ layout: default
 
 # If you are seeing this, we hope you join us as a speaker on December 12th (10am start) and 13th 2022.
 
-[Details about the workshop here](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) below) 
+[More details about the workshop here](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) 
 
 Please fill out this Google form to let us know if you can join us in person on December 12th & 13th 2022 (Cambridge, MA)
 * [Attendance RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSfpDN5LbUeNXzUcLl0ici5jvV37BOPDfxlz3f6H9GUrbqtsTg/viewform?usp=sf_link)
