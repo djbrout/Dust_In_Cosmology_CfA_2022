@@ -25,7 +25,7 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 
 
 # <a name="pitch"></a>The Pitch
-Nearly all precision cosmologists must understand to what level cosmic dust that impacts their measurements. Yet, while our understanding of cosmic dust in the Milky Way and beyond has developed significantly, there remain many questions that affect the potential constraining of future measurements in many/most of the most exciting areas of cosmology. 
+Nearly all precision cosmologists must understand to what level cosmic dust impacts their measurements. Yet, while our understanding of cosmic dust in the Milky Way and beyond has developed significantly, there remain many questions that affect the potential constraining of future measurements in many/most of the most exciting areas of cosmology. 
 
 We are attempting to connect the leading researchers on cosmic dust with the rest of the cosmological community and facilitate instructional talks, practical discussions, and real-time collaborations on the impact and mitigation of dust’s role in cosmological inference.
 
