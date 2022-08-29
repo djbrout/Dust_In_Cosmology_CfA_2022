@@ -22,6 +22,7 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
 | Adam Riess (STSci) | Daniela Calzetti (UMass-Amherst)| Daniel Scolnic  (Duke)  |
 | Samir Salim (IU) | Desika Narayanan (UF) | Eddie Schlafly (STSci) |
+| Sidney Lower (UF) |  |  |
 
 
 # <a name="pitch"></a>The Pitch
