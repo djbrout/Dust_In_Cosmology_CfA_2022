@@ -22,7 +22,7 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
 | Adam Riess (STSci) | Samir Salim (IU) | Daniel Scolnic  (Duke)  |
 | Daniela Calzetti (UMass-Amherst) | Desika Narayanan (UF) | Eddie Schlafly (STSci) |
-| Sidney Lower (UF) |  |  |
+| Sidney Lower (UF) | George Halal (Stanford) |  |
 
 
 
