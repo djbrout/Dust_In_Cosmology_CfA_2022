@@ -4,7 +4,7 @@ layout: default
 
 # <span style="color:white">Workshop on The Impact of Dust on Cosmological Inference</span>
 
-# If you are seeing this, we hope you join us as a speaker on December 12th (10am start) and 13th 2022.
+# If you are seeing this, we hope you join us as on December 12th (10am start) and 13th 2022.
 
 [More details about the workshop here](https://djbrout.github.io/Dust_In_Cosmology_CfA_2022/#the-pitch) 
 
