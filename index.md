@@ -14,13 +14,13 @@ Please fill out this Google form to let us know if you can join us in person on 
 
 ## Local/Scientific Organizing Committee
 
-Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
+Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein, Edo Berger, Christopher Stubbs
 
 ## Confirmed Attendees
 
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
-| Adam Riess (STSci) | Daniela Calzetti (UMass-Amherst)  | Daniel Scolnic  (Duke)  |
+| Daniela Calzetti (UMass-Amherst)  | Adam Riess (STSci)  | Daniel Scolnic  (Duke)  |
 | Samir Salim (IU) | Desika Narayanan (UF) | Sidney Lower (UF)  |
 | Željko Ivezic (UW/LSST)| Gregory Green (MPI)| Eddie Schlafly (STSci) |
 | George Halal (Stanford) |   ||
