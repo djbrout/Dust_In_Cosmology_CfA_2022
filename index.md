@@ -20,9 +20,10 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein
 
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
 | Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
-| Adam Riess (STSci) | Samir Salim (IU) | Daniel Scolnic  (Duke)  |
-| Daniela Calzetti (UMass-Amherst) | Desika Narayanan (UF) | Eddie Schlafly (STSci) |
-| Sidney Lower (UF) | George Halal (Stanford) |  |
+| Adam Riess (STSci) | Daniela Calzetti (UMass-Amherst)  | Daniel Scolnic  (Duke)  |
+| Samir Salim (IU) | Desika Narayanan (UF) | Eddie Schlafly (STSci) |
+| Željko Ivezic (UW/LSST)| Gregory Green (MPI)| |
+|Sidney Lower (UF) | George Halal (Stanford)  ||
 
 
 
