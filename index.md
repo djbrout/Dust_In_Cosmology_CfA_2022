@@ -19,11 +19,10 @@ Dillon Brout, Charlie Conroy, Doug Finkbeiner, Daniel Eisenstein, Edo Berger, Ch
 ## Confirmed Attendees
 
 | Dillon Brout (CfA)  | Charlie Conroy (CfA)| Doug Finkbeiner (CfA) |
-| Daniel Eisenstein (CfA)| Christopher Stubbs (CfA)  | Edo Berger (CfA) |
-| Daniela Calzetti (UMass-Amherst)  | Adam Riess (STSci)  | Daniel Scolnic  (Duke)  |
+| Christopher Stubbs (CfA)  | Adam Riess (STSci)  | Daniel Scolnic  (Duke)  |
+| Daniela Calzetti (UMass-Amherst)  | Željko Ivezic (UW/LSST) | George Halal (Stanford) |
 | Samir Salim (IU) | Desika Narayanan (UF) | Sidney Lower (UF)  |
-| Željko Ivezic (UW/LSST)| Gregory Green (MPI)| Eddie Schlafly (STSci) |
-| George Halal (Stanford) |   ||
+| Nayantara Mudur (CfA) | Gregory Green (MPI)| Eddie Schlafly (STSci) |
 
 
 
